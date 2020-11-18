@@ -1,3 +1,5 @@
+**NOTICE: This has been merged into the core functionality of JupyterLab, there is no need to install if using JupyterLab > 1.0.0**
+
 # jupyterlab_html
 
 JupyterLab extension mimerenderer to render HTML files in IFrame Tab. This extension allows users to view rendered HTML by double-clicking on .html files in the file browser. Files are opened in a JupyterLab tab.
